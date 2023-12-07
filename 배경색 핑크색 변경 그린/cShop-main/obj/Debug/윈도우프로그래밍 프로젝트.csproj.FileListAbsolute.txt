@@ -1,0 +1,162 @@
+C:\Users\손어진\Desktop\Window  Programming\프로젝트\윈도우프로그래밍 프로젝트\bin\Debug\윈도우프로그래밍 프로젝트.exe.config
+C:\Users\손어진\Desktop\Window  Programming\프로젝트\윈도우프로그래밍 프로젝트\bin\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\손어진\Desktop\Window  Programming\프로젝트\윈도우프로그래밍 프로젝트\bin\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\손어진\Desktop\Window  Programming\프로젝트\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍 프로젝트.csproj.AssemblyReference.cache
+C:\Users\손어진\Desktop\Window  Programming\프로젝트\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍_프로젝트.Form1.resources
+C:\Users\손어진\Desktop\Window  Programming\프로젝트\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍_프로젝트.Properties.Resources.resources
+C:\Users\손어진\Desktop\Window  Programming\프로젝트\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍 프로젝트.csproj.GenerateResource.cache
+C:\Users\손어진\Desktop\Window  Programming\프로젝트\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\손어진\Desktop\Window  Programming\프로젝트\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\손어진\Desktop\Window  Programming\프로젝트\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\손어진\Desktop\Window  Programming\프로젝트\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍_프로젝트.TimetableForm.resources
+C:\Users\손어진\Desktop\Window  Programming\프로젝트\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍_프로젝트.FindUsernameForm.resources
+C:\Users\jmhm0\Desktop\윈도우프로그래밍 프로젝트\bin\Debug\윈도우프로그래밍 프로젝트.exe.config
+C:\Users\jmhm0\Desktop\윈도우프로그래밍 프로젝트\bin\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\jmhm0\Desktop\윈도우프로그래밍 프로젝트\bin\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\jmhm0\Desktop\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍 프로젝트.csproj.AssemblyReference.cache
+C:\Users\jmhm0\Desktop\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍_프로젝트.FindUsernameForm.resources
+C:\Users\jmhm0\Desktop\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍_프로젝트.Form1.resources
+C:\Users\jmhm0\Desktop\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍_프로젝트.Properties.Resources.resources
+C:\Users\jmhm0\Desktop\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍 프로젝트.csproj.GenerateResource.cache
+C:\Users\jmhm0\Desktop\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\jmhm0\Desktop\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\jmhm0\Desktop\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\jmhm0\Desktop\윈도우프로그래밍 프로젝트\obj\Debug\윈도우프로그래밍_프로젝트.Form2.resources
+C:\Users\user\Desktop\로그인+시가표\bin\Debug\윈도우프로그래밍 프로젝트.exe.config
+C:\Users\user\Desktop\로그인+시가표\bin\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\user\Desktop\로그인+시가표\bin\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\user\Desktop\로그인+시가표\obj\Debug\윈도우프로그래밍 프로젝트.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\로그인+시가표\obj\Debug\윈도우프로그래밍_프로젝트.FindUsernameForm.resources
+C:\Users\user\Desktop\로그인+시가표\obj\Debug\윈도우프로그래밍_프로젝트.Form1.resources
+C:\Users\user\Desktop\로그인+시가표\obj\Debug\윈도우프로그래밍_프로젝트.Form2.resources
+C:\Users\user\Desktop\로그인+시가표\obj\Debug\윈도우프로그래밍_프로젝트.Properties.Resources.resources
+C:\Users\user\Desktop\로그인+시가표\obj\Debug\윈도우프로그래밍 프로젝트.csproj.GenerateResource.cache
+C:\Users\user\Desktop\로그인+시가표\obj\Debug\윈도우프로그래밍 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\로그인+시가표\obj\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\user\Desktop\로그인+시가표\obj\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\user\Downloads\로그인+시가표+콤보-20231202T113428Z-001\로그인+시가표+콤보\bin\Debug\윈도우프로그래밍 프로젝트.exe.config
+C:\Users\user\Downloads\로그인+시가표+콤보-20231202T113428Z-001\로그인+시가표+콤보\bin\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\user\Downloads\로그인+시가표+콤보-20231202T113428Z-001\로그인+시가표+콤보\bin\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\user\Downloads\로그인+시가표+콤보-20231202T113428Z-001\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍 프로젝트.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\로그인+시가표+콤보-20231202T113428Z-001\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍_프로젝트.FindUsernameForm.resources
+C:\Users\user\Downloads\로그인+시가표+콤보-20231202T113428Z-001\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍_프로젝트.Form1.resources
+C:\Users\user\Downloads\로그인+시가표+콤보-20231202T113428Z-001\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍_프로젝트.Form2.resources
+C:\Users\user\Downloads\로그인+시가표+콤보-20231202T113428Z-001\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍_프로젝트.Properties.Resources.resources
+C:\Users\user\Downloads\로그인+시가표+콤보-20231202T113428Z-001\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍 프로젝트.csproj.GenerateResource.cache
+C:\Users\user\Downloads\로그인+시가표+콤보-20231202T113428Z-001\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\로그인+시가표+콤보-20231202T113428Z-001\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\user\Downloads\로그인+시가표+콤보-20231202T113428Z-001\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\user\Downloads\로그인+시가표+콤보+1행1열변경불가\로그인+시가표+콤보\bin\Debug\윈도우프로그래밍 프로젝트.exe.config
+C:\Users\user\Downloads\로그인+시가표+콤보+1행1열변경불가\로그인+시가표+콤보\bin\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\user\Downloads\로그인+시가표+콤보+1행1열변경불가\로그인+시가표+콤보\bin\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\user\Downloads\로그인+시가표+콤보+1행1열변경불가\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍 프로젝트.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\로그인+시가표+콤보+1행1열변경불가\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍_프로젝트.FindUsernameForm.resources
+C:\Users\user\Downloads\로그인+시가표+콤보+1행1열변경불가\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍_프로젝트.Form1.resources
+C:\Users\user\Downloads\로그인+시가표+콤보+1행1열변경불가\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍_프로젝트.Form2.resources
+C:\Users\user\Downloads\로그인+시가표+콤보+1행1열변경불가\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍_프로젝트.Properties.Resources.resources
+C:\Users\user\Downloads\로그인+시가표+콤보+1행1열변경불가\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍 프로젝트.csproj.GenerateResource.cache
+C:\Users\user\Downloads\로그인+시가표+콤보+1행1열변경불가\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\로그인+시가표+콤보+1행1열변경불가\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\user\Downloads\로그인+시가표+콤보+1행1열변경불가\로그인+시가표+콤보\obj\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\Administrator\Desktop\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe.config
+C:\Users\Administrator\Desktop\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\Administrator\Desktop\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\Administrator\Desktop\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.FindUsernameForm.resources
+C:\Users\Administrator\Desktop\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form1.resources
+C:\Users\Administrator\Desktop\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form2.resources
+C:\Users\Administrator\Desktop\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Properties.Resources.resources
+C:\Users\Administrator\Desktop\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\Administrator\Desktop\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\jmhm0\Downloads\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe.config
+C:\Users\jmhm0\Downloads\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\jmhm0\Downloads\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\jmhm0\Downloads\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.AssemblyReference.cache
+C:\Users\jmhm0\Downloads\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.FindUsernameForm.resources
+C:\Users\jmhm0\Downloads\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form1.resources
+C:\Users\jmhm0\Downloads\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form2.resources
+C:\Users\jmhm0\Downloads\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Properties.Resources.resources
+C:\Users\jmhm0\Downloads\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.GenerateResource.cache
+C:\Users\jmhm0\Downloads\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\jmhm0\Downloads\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\jmhm0\Downloads\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\user\Downloads\완성본_c# (1)\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe.config
+C:\Users\user\Downloads\완성본_c# (1)\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\user\Downloads\완성본_c# (1)\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\user\Downloads\완성본_c# (1)\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\완성본_c# (1)\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\완성본_c# (1)\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form1.resources
+C:\Users\user\Downloads\완성본_c# (1)\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form2.resources
+C:\Users\user\Downloads\완성본_c# (1)\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Properties.Resources.resources
+C:\Users\user\Downloads\완성본_c# (1)\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.GenerateResource.cache
+C:\Users\user\Downloads\완성본_c# (1)\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\완성본_c# (1)\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\user\Downloads\완성본_c# (1)\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\최종물\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe.config
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\최종물\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\최종물\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\최종물\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.AssemblyReference.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\최종물\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form1.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\최종물\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form2.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\최종물\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Properties.Resources.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\최종물\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.GenerateResource.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\최종물\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\최종물\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\최종물\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양추가\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe.config
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양추가\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양추가\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.AssemblyReference.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양추가\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form1.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양추가\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form2.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양추가\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Properties.Resources.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.GenerateResource.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe.config
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.AssemblyReference.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form1.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form2.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Properties.Resources.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.GenerateResource.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가2\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.AssemblyReference.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가2\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form1.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가2\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form2.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가2\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Properties.Resources.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가2\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.GenerateResource.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가2\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가2\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가2\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가2\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe.config
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가2\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 교양 과목 추가2\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 대학 추가\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe.config
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 대학 추가\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 대학 추가\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 대학 추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.AssemblyReference.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 대학 추가\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form1.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 대학 추가\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form2.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 대학 추가\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Properties.Resources.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 대학 추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.GenerateResource.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 대학 추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 대학 추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\콤보박스 대학 추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\배경색 빨강색 추가\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe.config
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\배경색 빨강색 추가\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\배경색 빨강색 추가\cShop-main\bin\Debug\윈도우프로그래밍 프로젝트.pdb
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\배경색 빨강색 추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.AssemblyReference.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\배경색 빨강색 추가\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form1.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\배경색 빨강색 추가\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Form2.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\배경색 빨강색 추가\cShop-main\obj\Debug\윈도우프로그래밍_프로젝트.Properties.Resources.resources
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\배경색 빨강색 추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.GenerateResource.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\배경색 빨강색 추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\배경색 빨강색 추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.exe
+C:\Users\didck\OneDrive\바탕 화면\시간표 정리\배경색 빨강색 추가\cShop-main\obj\Debug\윈도우프로그래밍 프로젝트.pdb
